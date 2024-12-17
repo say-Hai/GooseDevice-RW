@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\3_C++Learn\C__Code\TransDataToServer\GXMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\3_C++Learn\C__Code\TransDataToServer\Serial.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\3_C++Learn\C__Code\TransDataToServer\UtilityClass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\3_C++Learn\C__Code\TransDataToServer\Logger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\3_C++Learn\C__Code\TransDataToServer\SQL_Conn.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\3_C++Learn\C__Code\TransDataToServer\WeightReckon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\3_C++Learn\C__Code\TransDataToServer\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F9106CE9-28AE-3D05-BAC4-C44F12AB036B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

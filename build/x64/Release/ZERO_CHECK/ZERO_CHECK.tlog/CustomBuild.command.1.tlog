@@ -1,0 +1,10 @@
+^E:\3_C++LEARN\C__CODE\TRANSDATATOSERVER\BUILD\CMAKEFILES\EDA8E5790B3AF6FEE89123C79C7B11BE\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/3_C++Learn/C__Code/TransDataToServer -BE:/3_C++Learn/C__Code/TransDataToServer/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/3_C++Learn/C__Code/TransDataToServer/build/RFIDKits.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

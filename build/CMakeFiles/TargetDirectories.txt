@@ -1,0 +1,3 @@
+E:/3_C++Learn/C__Code/TransDataToServer/build/CMakeFiles/RFIDKits.dir
+E:/3_C++Learn/C__Code/TransDataToServer/build/CMakeFiles/ALL_BUILD.dir
+E:/3_C++Learn/C__Code/TransDataToServer/build/CMakeFiles/ZERO_CHECK.dir
